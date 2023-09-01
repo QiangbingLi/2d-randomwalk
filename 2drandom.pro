@@ -16,3 +16,7 @@ INCLUDEPATH += .
 # Input
 HEADERS += mainwidget.h randomwalk.h
 SOURCES += main.cpp mainwidget.cpp randomwalk.cpp
+
+
+QT += widgets
+QMAKE_LFLAGS += -lstdc++
