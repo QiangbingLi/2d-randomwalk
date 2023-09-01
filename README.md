@@ -12,7 +12,9 @@ $ sudo apt install libgl-dev
 
 ## Build it.
 $ qmake6 -project
+
 $ qmake6 2drandom.pro
+
 $ make
 
 ## Run it.
