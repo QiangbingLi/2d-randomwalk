@@ -17,5 +17,8 @@ $ make
 
 ## Run it.
 $ ./2drandom
+## screenshot
+![2d random walk](https://github.com/QiangbingLi/2d-randomwalk/blob/main/captures/Capture.PNG "2d randomwalk example")
+
 
 
