@@ -1,4 +1,4 @@
-# A GUI in QT to simulate and visualize 2d random walk, which in continuous space would be the Brownian Motion. 
+# A GUI to simulate and visualize 2d random walk, which in continuous space would be the Brownian motion. 
 
 Tested to work with QT6 in Ubuntu22.0.4
 
